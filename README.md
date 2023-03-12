@@ -194,3 +194,4 @@ When running the larger models, make sure you have enough disk space to store al
   know how to utilize it properly. But in any case, you can even disable it with `LLAMA_NO_ACCELERATE=1 make` and the
   performance will be the same, since no BLAS calls are invoked by the current implementation
 
+# llama_gui
