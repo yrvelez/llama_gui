@@ -1,6 +1,6 @@
 LLaMa GUI Interface
 
-LLaMa is a large language model developed by Facebook Research. This GUI interface provides a simple way to run LLaMa on an M1 Max, with options for quickly entering prompts and adjusting basic parameters. This would not be possible without Georgi Gerganov's C/C++ implementation of LLaMa (https://github.com/ggerganov/llama.cpp).
+LLaMa is a large language model developed by Meta. This GUI interface provides a simple way to run LLaMa on an M1 Max, with options for quickly entering prompts and adjusting basic parameters. This would not be possible without Georgi Gerganov's C/C++ implementation of LLaMa (https://github.com/ggerganov/llama.cpp).
 
 Prerequisites
 
