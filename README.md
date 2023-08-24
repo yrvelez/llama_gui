@@ -21,4 +21,4 @@ Note that the LLaMa model used for generation may have limitations in terms of a
 
 Acknowledgements
 
-This GUI interface is based on the LLaMa library developed by Facebook Research and the LLaMa implementation by Georgi Gerganov. 
+This GUI interface is based on the LLaMa library developed by Meta and the llama.cpp implementation by Georgi Gerganov. 
